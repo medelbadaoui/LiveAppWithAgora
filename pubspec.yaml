@@ -29,7 +29,7 @@ dependencies:
   agora_rtc_engine: 1.0.5
   agora_rtm: 0.9.11
   sliding_up_panel: ^1.0.2
-  fluttertoast: ^5.0.1
+  fluttertoast: ^7.0.2
   google_sign_in: ^4.2.0
   firebase_auth_web: ^0.1.2
   firebase_auth: ^0.14.0+5
@@ -49,6 +49,10 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.3
+  path_provider: ^1.6.11
+  video_player: ^0.10.12
+  crypto: ^2.1.5
+  sigv4: ^4.1.0
 
 dev_dependencies:
   flutter_test:

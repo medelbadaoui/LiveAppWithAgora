@@ -7,7 +7,7 @@ import 'package:agora_rtc_engine/agora_rtc_engine.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import '../../utils/settings.dart';
+import '../../utils/setting.dart';
 import 'package:wakelock/wakelock.dart';
 import 'dart:math' as math;
 import 'package:agorartm/screen/HearAnim.dart';

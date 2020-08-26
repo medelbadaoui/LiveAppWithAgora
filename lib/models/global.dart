@@ -8,9 +8,9 @@ TextStyle textStyleLigthGrey = new TextStyle(fontFamily: 'Gotham', color: Colors
 
 
 List<Post> userPosts = [
-  new Post(new AssetImage('assets/images/photo_1.jpeg'), 'agora', 'assets/images/agora.jpg', "My first post", false, false),
-  new Post(new AssetImage('assets/images/post2.jpg'), 'akarsh', 'assets/images/profile4.png' , "This is such a great post though", false, false),
+  new Post(new AssetImage('assets/images/messi.jpg'), 'leomessi', 'assets/images/messip.jpg', "See you in Lisbon!! 😉👍🏻", false, false),
+  new Post(new AssetImage('assets/images/cristiano.jpg'), 'cristiano', 'assets/images/cristanop.jpg' , "On board🛥😉", false, false),
  ];
 
 
- String title = "Instagram";
+ String title = "Instagram"; 
