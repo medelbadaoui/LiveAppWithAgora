@@ -4,8 +4,8 @@ import 'package:sigv4/sigv4.dart';
 class AwsModel {
   String url = 'https://livestreamingapp.s3.us-east-2.amazonaws.com/';
   Future gettData(String input) async {
-    String username = 'AKIAINPFBOIFL24CL5WQ';
-    String password = 'BWDX1kQxashShaDmYi75ULwSxDr5c0uspfC/djKp';
+    String username = '***************';
+    String password = '***************';
     final client = Sigv4Client(
       keyId: username,
       accessKey: password,

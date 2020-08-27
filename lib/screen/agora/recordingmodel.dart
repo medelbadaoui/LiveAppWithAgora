@@ -70,8 +70,8 @@ class RecordingModel {
           "vendor": 1,
           "region": 1,
           "bucket": "livestreamingapp",
-          "accessKey": "AKIAINPFBOIFL24CL5WQ",
-          "secretKey": "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"
+          "accessKey": "**************",
+          "secretKey": "**************"
         }
       }
     });
